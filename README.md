@@ -1,8 +1,8 @@
 # Kearl Lake Metal Exceedance Prediction Using Machine Learning
 
-A DATA 443 team project exploring whether water-quality measurements and sampling conditions can predict metal guideline exceedances at Kearl Lake.
+Project exploring whether water-quality measurements and sampling conditions can predict metal guideline exceedances at Kearl Lake.
 
-**Contributors:** Anna Phan, Morsal Nory, Muntaha Al-Taie, and Saif Farag.
+**Contributors:** Muntaha Al-Taie
 
 ## Project overview
 
